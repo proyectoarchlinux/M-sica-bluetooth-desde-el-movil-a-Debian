@@ -25,3 +25,7 @@
 `pactl load-module module-bluetooth-discover`
 
 **Nota:** Reinicia el PC para asegurarte de que funciona ya correctamente. Utiliza `bluedevil-wizard` para emparejar o también `blueman-applet`.
+
+> [Fuente de información](https://usuariodebian.blogspot.com/2012/08/bluetooth-en-debian-gnulinux.html)
+> [Fuente de información de errores](https://blog.desdelinux.net/solucionado-problema-emparejar-bluetooth-audio/)
+> [Más información](https://wiki.archlinux.org/index.php/Bluetooth_(Espa%C3%B1ol)#Instalaci.C3.B3n)
