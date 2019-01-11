@@ -20,7 +20,7 @@
 
 `sudo apt-get install pulseaudio-module-bluetooth`
 
-¿Sigue sin emparejar correctamente? Ingresa esto en la terminal:
+**¿Sigue sin emparejar correctamente? Ingresa esto en la terminal:**
 
 `pactl load-module module-bluetooth-discover`
 
